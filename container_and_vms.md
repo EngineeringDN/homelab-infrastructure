@@ -43,6 +43,8 @@ I have a Mount Point configured for this LXC:
 ## 106 / Glance (Debian)
 This has Glance running on it.
 Which is basically a Dashboard/Startpage.
+<img width="1611" height="1091" alt="Screenshot 2026-02-19 002632" src="https://github.com/user-attachments/assets/d3967d37-bec0-4cc3-97e1-414d4c1109b3" />
+
 ### Resources
 #### Memory and Cores
 Memory: 1 GiB (1024 MiB)
